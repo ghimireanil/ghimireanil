@@ -41,8 +41,6 @@
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
-<img align="left" alt="MATLAB" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20181113%2Fkwl%2Fkisspng-logo-karlovac-brand-graphic-design-font-matlab-5beb76d2bca7b1.7402671415421580347727.jpg&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-logo-karlovac-brand-graphic-design-font-matlab-6779287%2F&tbnid=XxWNZQPd8iAijM&vet=12ahUKEwiImtLtpP_uAhWJ11MKHYGKAT8QMygEegUIARCuAQ..i&docid=OzfijlExX2jW4M&w=900&h=460&q=MATLAB%20%20logo&hl=en&ved=2ahUKEwiImtLtpP_uAhWJ11MKHYGKAT8QMygEegUIARCuAQ" />
-
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
