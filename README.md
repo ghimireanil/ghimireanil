@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer!!
 
 - 🔭 I just launched my first app: HamroFood!
-- 🌱 I’m currently learning MySQL, Express, AWS
+- 🌱 I’m currently learning AWS, Python
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to more projects
 - ⚡ Fun fact: I'm a Mechanical Engineer
