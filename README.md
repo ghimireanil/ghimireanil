@@ -1,4 +1,4 @@
-### Hi there, I'm [Ail Ghimire][website]👋
+### Hi there, I'm [Anil Ghimire][website]👋
 
 ## I'm a Full Stack Developer!!
 
