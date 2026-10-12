@@ -1,12 +1,21 @@
-### Hi there, I'm [Anil Ghimire][website]👋
+# Hi, I'm Anil Ghimire 👋
 
-## I'm a Full Stack Developer!!
+**Software Engineer (building automation / IoT) · M.S. in AI candidate, expected May 2027**
 
-- 🔭 I just launched my first app: HamroFood!
-- 🌱 I’m currently learning AWS, Python
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute to more projects
-- ⚡ Fun fact: I'm a Mechanical Engineer
+I build edge-to-cloud systems for the built environment: 5+ years engineering IoT telemetry pipelines, edge controllers, and full-stack dashboards at US Energy Group — plus an M.S. in AI (Indiana Wesleyan University) and an M.S. in Data Science (Eastern University) on top of a B.S. in Mechanical Engineering.
+
+## What I work on
+
+- **Edge automation & IoT:** Node-RED workflows on edge controllers, BACnet/MQTT telemetry, reverse-SSH secure polling, sensor integrations and firmware rollouts
+- **Full-stack:** Node.js / React Native / MongoDB dashboards used on-site and remotely, REST APIs, Java services
+- **AI/ML:** PyTorch, LangChain, RAG systems, anomaly detection on streaming sensor data
+- **Infra:** Docker, AWS (EC2, S3, RDS, VPC), CI/CD
+
+## Featured work
+
+- 🔌 Edge automation & telemetry pipelines at US Energy Group (building automation IoT)
+- 🧠 RAG system design and applied-ML case studies — see my portfolio
+- 📊 Portfolio: [ghimireanil.github.io](https://ghimireanil.github.io)
 
 ### Languages and Tools:
 
